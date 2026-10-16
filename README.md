@@ -26,4 +26,4 @@ python run_eval.py --backend anthropic --attacker llm
 
 Only test agents you own or are allowed to test. The sandbox is fake, but the attack prompts are real techniques.
 
-Full details (architecture, flags, metrics, how to plug in your own agent) are in [DOCUMENTATION.md](DOCUMENTATION.md).
+Full details a are in [DOCUMENTATION.md](DOCUMENTATION.md).
